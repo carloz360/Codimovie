@@ -6,4 +6,4 @@ Config/database.php
 Config/config.php 
 
 
-tambiem deves importar las tablas de la base de datos que este en el directorio raiz.
+tambiem deves importar las tablas de la base de datos que esta en el directorio raiz.
