@@ -1,0 +1,146 @@
+body {
+    background-color: #f3f3f3;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    margin-bottom: 60px;
+}
+
+.navbar {
+    border-radius: 0;
+    background-color: #3c8dbc;
+}
+
+.sidebar {
+    margin-bottom: 60px;
+}
+
+.sidebar-title {
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+.module-sidebar ul {
+    list-style: none;
+    padding: 0;
+}
+
+.module-sidebar ul li {
+    display: block;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #f8f8f8;
+}
+
+.module-sidebar ul li:last-child {
+    border-bottom: 0;
+}
+
+.module-sidebar ul li a {
+    text-decoration: none;
+    color: #545454;
+}
+
+.module-container {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.movie {
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.cat-title {
+    position: absolute;
+    bottom: 40px;
+    right: 0;
+    left: 15px;
+    padding: 10px;
+    color: #fafafa;
+    font-size: 14px;
+    font-weight: 400;
+    z-index: 3;
+    max-width: 70%;
+}
+
+.movie span.rating {
+    background-color: #333;
+    color: #ffd956;
+    border-radius: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 12px;
+    position: absolute;
+    right: 30px;
+}
+
+.movie img {
+    width: 100%;
+}
+
+.movie-meta h2 {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-size: 16px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.span-group {
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #f8f8f8;
+    font-size: 12px;
+}
+
+.span-group:last-child {
+    border-bottom: 0;
+}
+
+.info-title {
+    color: #999;
+    font-size: 13px;
+}
+
+h3.text-muted.holder-title {
+    margin-bottom: 30px;
+    font-size: 24px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.video-pelicula {
+    margin-bottom: 60px;
+}
+
+.movie-plot {
+    margin: 30px 0;
+}
+
+.single-title {
+    font-size: 24px;
+    margin-bottom: 15px;
+    padding-bottom: 10px;
+    color: #7d6d6d;
+}
+
+.movie-plot p {
+    color: #7d6d6d;
+}
+
+.footer {
+    margin-top: 60px;
+    background-color: #fff;
+    border-top: 3px solid #3c8dbc;
+}
+
+.footer p {
+    margin-top: 15px;
+    text-align: center;
+    color: #999;
+}
