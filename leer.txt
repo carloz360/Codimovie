@@ -1,0 +1,9 @@
+Usuario: admin123
+Password: 123456
+
+Cambiar datos de base de datos en 
+Config/database.php
+Config/config.php 
+
+
+tambiem deves importar las tablas de la base de datos que este en el directorio raiz.
